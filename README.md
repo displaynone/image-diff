@@ -32,6 +32,9 @@ To install Image Diff, follow these steps:
 2. Upload two images through the interface.
 3. Use the slider to switch between the images and view the highlighted differences.
 
+![](./docs/image_1.png)
+![](./docs/image_2.png)
+
 ## Building the Application
 Currently supported on Ubuntu.
 
